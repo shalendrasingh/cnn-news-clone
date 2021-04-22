@@ -1,0 +1,17 @@
+.trending{
+    padding:20px;
+    margin:0 auto;
+    width:93vw;
+
+}
+span{
+    margin: 0 5px;
+    font-size: 18px;
+}
+span:hover{
+    color: red;
+    cursor: pointer;
+}
+body{
+    background-color: whitesmoke;
+}

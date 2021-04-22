@@ -1,0 +1,62 @@
+.navbar{
+    height:50px;
+    width: 100%;
+    background-color: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* border: 1px solid black;
+    margin: auto; */
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.padd{
+    padding:30px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin:0 10px
+}
+select{
+    padding: 0;
+    margin-right: 10px;
+    background: none;
+    color: white;
+    border: none;
+    width: 70px;
+    outline: none;
+    cursor: pointer;
+}
+select > option{    
+    padding: 0;
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    padding: 0 30px ;
+}
+.search{
+    padding:0;
+    margin: 0 10px;
+    font-size: 20px;
+}
+.rightmenu{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+}
+.profile{
+    font-size: 23px;
+}
+.leftmenu{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}

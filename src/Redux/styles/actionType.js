@@ -1,0 +1,4 @@
+export const DATA_REQUEST = "DATA_REQUEST"
+export const REQUEST_SUCCESS = "REQUEST_SUCCESS"
+export const REQUEST_FAILURE = "REQUEST_FAILURE"
+export const DROP_MENU = "DROP_MENU"
